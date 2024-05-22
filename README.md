@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+# Hi! My name is Hunter Zhou. 🚀
+
+🌍  I am a Full-Stack Developer based in Brisbane, Aus 📍
+<br/>
+
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,scss,graphql,nodejs,git)](https://skillicons.dev)
+<br/>
+
+
 <!--
 **polokang/polokang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
